@@ -134,8 +134,7 @@ By combining Presence %, WFH %, and Sick Leave %, stakeholders can get a broader
 
 #### 6. Screenshots / Demos
 
-
-
+(https://github.com/Subrahmanya-naik/HR-Working-Preference-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 
 
